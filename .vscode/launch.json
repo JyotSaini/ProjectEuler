@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch problem33",
+            "request": "launch",
+            "mainClass": "problem33",
+            "projectName": "ProjectEuler_e1ce7a16"
+        },
+        {
+            "type": "java",
+            "name": "Launch problem32",
+            "request": "launch",
+            "mainClass": "problem32",
+            "projectName": "ProjectEuler_e1ce7a16"
+        },
+        {
+            "type": "java",
             "name": "Debug (Launch) - Current File",
             "request": "launch",
             "mainClass": "${file}"
